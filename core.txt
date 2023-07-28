@@ -65,3 +65,4 @@ xorg-xbacklight
 xorg-xdpyinfo
 xz
 zip
+zsh

@@ -1,5 +1,4 @@
 bat
-discord
 firefox-developer-edition
 flameshot
 flatpak
