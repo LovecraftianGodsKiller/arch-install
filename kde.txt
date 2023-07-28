@@ -10,7 +10,7 @@ kgamma5
 khotkeys
 kinfocenter
 kscreen
-kwalletpam
+kwallet-pam
 kwayland-integration
 kwrited
 networkmanager
