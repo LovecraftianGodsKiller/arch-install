@@ -1,0 +1,15 @@
+cantarell-fonts
+noto-fonts
+ttf-bitstream
+ttf-caladea
+ttf-carlito
+ttf-cascadia-code
+ttf-dejavu
+ttf-droid
+ttf-fira-code
+ttf-fira-mono
+ttf-fira-sans
+ttf-inconsolata
+ttf-liberation
+ttf-roboto
+ttf-ubuntu-font-family

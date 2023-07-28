@@ -1,0 +1,12 @@
+aria2
+avahi
+curl
+dnsutils
+firewalld
+iptables-nft
+networkmanager
+network-manager-applet
+nm-connection-manager
+nss-mdns
+wget
+whois
