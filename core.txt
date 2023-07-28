@@ -62,4 +62,5 @@ xdg-user-dirs
 xed
 xorg-xbacklight
 xorg-xdpyinfo
+xz
 zip
