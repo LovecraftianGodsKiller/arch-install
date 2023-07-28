@@ -20,7 +20,7 @@ oxygen-sounds
 plasma-browser-integration
 plasma-disks
 plasma-firewall
-plasmas-nm
+plasma-nm
 plasma-thunderbolt
 plasma-vault
 plasma-welcome
