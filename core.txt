@@ -3,6 +3,7 @@ base
 base-devel
 broadcom-wl
 btrfs-progs
+bzip2
 cat
 coreutils
 curl
