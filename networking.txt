@@ -6,7 +6,7 @@ firewalld
 iptables-nft
 networkmanager
 network-manager-applet
-nm-connection-manager
+nm-connection-editor
 nss-mdns
 wget
 whois
