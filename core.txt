@@ -3,6 +3,9 @@ base
 base-devel
 broadcom-wl
 btrfs-progs
+cat
+coreutils
+curl
 dex
 dhclient
 dhcpcd
@@ -15,6 +18,7 @@ edk2-shell
 efibootmgr
 exfatprogs
 f2fs-tools
+git
 gpart
 grub
 iw
@@ -39,6 +43,7 @@ numlockx
 playerctl
 plymouth
 parted
+rar
 reflector
 resolvconf
 rsync
@@ -46,8 +51,15 @@ squashfs-tools
 sudo
 syslinux
 systemd-resolvconf
+tar
+unrar
+unzip
+vi
+vim
+wget
 xbindkeys
 xdg-user-dirs
 xed
 xorg-xbacklight
 xorg-xdpyinfo
+zip
