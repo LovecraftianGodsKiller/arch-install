@@ -1,3 +1,4 @@
 xorg-server
-xorg-init
+xorg-xinit
 xorg-xkill
+xterm
