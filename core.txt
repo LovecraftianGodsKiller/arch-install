@@ -1,8 +1,7 @@
 amd-ucode
-# b43-fwcutter
 base
 base-devel
-broadcomm-wl
+broadcom-wl
 btrfs-progs
 dex
 dhclient
@@ -31,22 +30,22 @@ linux-firmware
 man-db
 man-pages
 memtest86+
-mkinicpio
+mkinitcpio
 mtools
 nano
 neovim
 ntfs-3g
 numlockx
-openresolv
 playerctl
 plymouth
-prted
+parted
 reflector
 resolvconf
 rsync
 squashfs-tools
 sudo
 syslinux
+systemd-resolvconf
 xbindkeys
 xdg-user-dirs
 xed
