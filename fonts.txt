@@ -1,6 +1,6 @@
 cantarell-fonts
 noto-fonts
-ttf-bitstream
+ttf-bitstream-vera
 ttf-caladea
 ttf-carlito
 ttf-cascadia-code
