@@ -3,9 +3,9 @@ default-cursors
 dkms
 nvidia-dkms
 nvidia-utils
-glvnd
 haveged
 libdrm
+libglvnd
 libomxil-bellagio
 libpciaccess
 libunwind
